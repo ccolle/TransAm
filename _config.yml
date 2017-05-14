@@ -1,0 +1,20 @@
+# Site settings
+title: TransAmerica Trail
+header-img: img/home-bg.jpg
+copyright_name: CamelBlogging
+description: "A journal of my attempt at cycling the TransAmerica Trail!"
+baseurl: "/TransAm"
+github_username:  ccolle
+
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]

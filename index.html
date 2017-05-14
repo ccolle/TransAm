@@ -1,19 +1,44 @@
-<!doctype html>
-<html lang="en-US">
-<head>
-  <meta charset="UTF-8">
-  <title> title </title>
-</head>
+---
+layout: page
+description: ""
+---
 
-<body>
-<h1>TRANSAMERICA TRAIL</h1>
-content goes here!
+<h1> Status : </h1>
+{% assign total_distance = 0 %}
+{% for post in site.posts %}
+    {{post.distance}}, 
+    {% assign total_distance = total_distance | plus: post.distance %} 
+{% endfor %}
+sum is {{total_distance}}
 
+{% for post in paginator.posts %}
+<div class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+    </a>
+    <p class="post-meta">Posted {% if post.author %} by {{ post.author }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+</div>
+<hr>
+{% endfor %}
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/948367627/embed/c76f2f7b09f0906f6085cf6cf8e1506e3ff3519c'></iframe>
-
-
-Iframe iz not working?
-
-</body>
-</html>
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+<ul class="pager">
+    {% if paginator.previous_page %}
+    <li class="previous">
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    </li>
+    {% endif %}
+    {% if paginator.next_page %}
+    <li class="next">
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    </li>
+    {% endif %}
+</ul>
+{% endif %}
