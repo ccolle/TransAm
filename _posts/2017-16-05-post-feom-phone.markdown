@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "DAY 3 : a posy from my phone"
+title:      "DAY 3 : a posy from my phone"
 subtitle:   "epic one day ride"
 date:       2014-09-16 12:00:00
-header-img: "img/test.jpg"
+header-img: "img/IMG-20170514-WA0003.jpeg"
 distance:   0
 ---
 
@@ -24,7 +24,7 @@ test
 - three
 
 
-<img src="{{ site.baseurl }}/img/IMG-20170514-WA0003.jpeg">
+<img src="{{ site.baseurl }}/img/test.jpg">
 <span class="caption text-muted">Go go gooo.</span>
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/948367627/embed/c76f2f7b09f0906f6085cf6cf8e1506e3ff3519c'></iframe>
