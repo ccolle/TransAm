@@ -18,5 +18,5 @@ Arriving to the logical conclusion that it is impossible to take my bicycle on t
 Half an hour later and 70$ poorer I finally arrived at the hostel in DC around 23u00.
 
 
-<img src="{{ site.baseurl }}/img/test.jpg">
-<span class="caption text-muted">Caption</span>
+<img src="{{ site.baseurl }}/img/IMG_20170515_210415.jpg">
+<span class="caption text-muted">Bye bye AMTRAK train</span>
