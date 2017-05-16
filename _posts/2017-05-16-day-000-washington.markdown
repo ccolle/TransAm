@@ -20,5 +20,3 @@ Half an hour later and 70$ poorer I finally arrived at the hostel in DC around 2
 
 <img src="{{ site.baseurl }}/img/test.jpg">
 <span class="caption text-muted">Caption</span>
-
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/948367627/embed/c76f2f7b09f0906f6085cf6cf8e1506e3ff3519c'></iframe>
