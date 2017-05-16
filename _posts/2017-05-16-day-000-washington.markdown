@@ -3,7 +3,7 @@ layout:     post
 title:      "day 0: Washington DC"
 subtitle:   ""
 date:       2017-05-16 12:00:00
-header-img: "img/test.jpg"
+header-img: "img/IMG_20170516_162756.jpg"
 distance:   0
 ---
 
