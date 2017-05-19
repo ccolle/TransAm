@@ -16,7 +16,7 @@ I packed up everything and drove to the nearest supermarket; a food lion, which 
 After eating my breakfast on a bench in front of the food lion, the day could begin.
 
 The first part of the day I rode on smooth black roads with a bright yellow double stripe in the middle, meandering through forests and over hills.
-As I passed Fredericksburg the road widened to a 55 mph double lane one which diminished cycling comfort considerably.
+As I passed Fredericksburg the road widened to a 55 mph double lane and cycling comfort dimished considerably.
 Although I should mention that most cars were leaving a big gap when passing me, sometimes driving completely on the other side of the road.
 
 I pulled over at a gas station to refuel on water.
