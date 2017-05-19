@@ -3,7 +3,7 @@ layout:     post
 title:      "day 2: oak ridge campsite - Westmoreland state park"
 subtitle:   ""
 date:       2017-05-18 12:00:00
-header-img: "img/IMG-20170518-WA0027.jpg"
+header-img: "img/IMG_20170518_130021.jpg"
 distance:   143
 ---
 
@@ -24,7 +24,7 @@ There I looked up more information about possible campsites and learned that the
 The next possibility was 50km away, which would make my day total a 140km.
 Onwards I went through the burning sun and intense heat (34° C).
 Around 5 p.m. I arrived exhausted at the campsite.
-When riding into the campsite it was well worth the effort.
+When riding into the campsite it became clear that it has been well worth the effort.
 It is located in a forest on the bank of the Potomac, and after following the windy road down to the river I discovered a beautiful beach, part of the campgrounds.
 Swimming was promptly promoted to priority #1.
 The potomac is already wide enough so that the other side is barely visible.
@@ -47,4 +47,3 @@ Darkness quickly set in and I turned in for the night.
 
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/994769478/embed/3cc489c02010635836ddcdea57862ff5ddd33dca'></iframe>
-3cc489c02010635836ddcdea57862ff5ddd33dca
