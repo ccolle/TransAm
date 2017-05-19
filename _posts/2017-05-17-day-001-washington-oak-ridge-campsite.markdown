@@ -40,3 +40,5 @@ Christian, somewhat displeased with the campsite and low on food,  decided to pr
 <img src="{{ site.baseurl }}/img/IMG_20170517_111818.jpg">
 <span class="caption text-muted">Christian and his magic healing paste</span>
 
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/995386672/embed/eb4179e21ad276814d43136ab124242921b9462e'></iframe>
