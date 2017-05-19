@@ -20,14 +20,14 @@ As I passed Fredericksburg the road widened to a 55 mph double lane one which di
 Although I should mention that most cars were leaving a big gap when passing me, sometimes driving completely on the other side of the road.
 
 I pulled over at a gas station to refuel on water.
-There I looked up more information about possible campsites and learned that the closest one was an overpriced, RV focussedcamping.
+There I looked up more information about possible campsites and learned that the closest one was overpriced and RV focussed.
 The next possibility was 50km away, which would make my day total a 140km.
 Onwards I went through the burning sun and intense heat (34° C).
 Around 5 p.m. I arrived exhausted at the campsite.
-When riding into the campsite it became clear that it has been well worth the effort.
+When riding into the campsite it became clear that it had been well worth the effort.
 It is located in a forest on the bank of the Potomac, and after following the windy road down to the river I discovered a beautiful beach, part of the campgrounds.
 Swimming was promptly promoted to priority #1.
-The potomac is already wide enough so that the other side is barely visible.
+The potomac is already wide enough here so that the other side is barely visible.
 
 Later that evening, after eating my evening meal, I made the mistake of leaving my food unattended.
 When I returned I heard creatures, prime suspect #1: raccoons, hurrying away.
