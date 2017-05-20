@@ -13,11 +13,11 @@ adventure cycling association's "tidewater potomac heritage route" counterclockw
 It took me past the Licoln memorial I visited yesterday on foot.
 
 At the border of Washington DC, with its many stoplights finely calibrated 
-to make sure a cyclist will gaze upon the red light shining bright and proud, 
-I got on a cycling hihgway along the Potomac that would make the dutch jealous.
+to make sure a cyclist will gaze upon the red light shining bright and proud each time. 
+I got on a cycling highway along the Potomac that would make the dutch jealous.
 A scenic road along the west bank of the Potomac, crossing forests and swamps via wooden bridges completely devoid of any motorized traffic.
 This ended at Mount Vernon and soon I found myself sharing the road with big American cars.
-Some roades had 4 lanes each way!
+Some roads had 4 lanes each way!
 From time to time a "cyclist lane" would appear, only to dissappear 100m further.
 At least it was reassuring that I was allowed to ride there.
 
