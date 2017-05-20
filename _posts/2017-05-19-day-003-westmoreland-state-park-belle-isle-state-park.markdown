@@ -47,6 +47,5 @@ We had a pleasant talk, even briefly going into politics #trump.
 <span class="caption text-muted">tentception</span>
 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/995816683/embed/321e8c39f4bab31ff4f82eef04ed4c656280a906'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/995816683/embed/'1cbd61acdbca608e86f8b32eb9be1c59d964bba8'></iframe>
 
-1cbd61acdbca608e86f8b32eb9be1c59d964bba8
