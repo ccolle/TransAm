@@ -30,7 +30,7 @@ After calling said campsite to check if they weren't fully booked as well we got
 Stephen then made the very generous offer to let me stay at their spot.
 Very relieved I accepted and set up my tent next to their RV.
 
-Not long thereafter, Anita, who overheard my troubles at the reception invited me to join her for dinner together with the 4 other members of "loners on wheels", an organisation for single campers.
+Not long thereafter, Anita, who overheard my troubles at the reception invited me to join her for dinner together with 4 other members of "loners on wheels", an organisation for single campers.
 At 5 p.m. we drove to the nearby "oak restaurant", with good food and oversized desserts.
 One of the ladies told the waiter that she would take care of my bill, and persisted after a weak attempt by me to decline.
 It was very nice meeting and dining with the 5 ladies from "loners on wheels".
