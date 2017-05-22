@@ -24,7 +24,7 @@ My throat was feeling a bit sore and I felt cold. Putting on my thermal underwea
 <span class="caption text-muted">view from bridge over the rappahannock</span>
 
 
-<img src="{{ site.baseurl }}/img/IMG_20170520_100648.pg">
+<img src="{{ site.baseurl }}/img/IMG_20170520_100648.jpg">
 <span class="caption text-muted">bridge over Piankatank river</span>
 
 
