@@ -3,7 +3,7 @@ layout:     post
 title:      "day 5: Newport News park - Americamps RV resort (Richmond)"
 subtitle:   ""
 date:       2017-05-20 12:00:00
-header-img: "img/IMG_20170521_080438.pg"
+header-img: "img/IMG_20170521_080438.jpg"
 distance:   160
 ---
 
@@ -37,7 +37,7 @@ As I walked back to the campsite the woman of the reception (and her husband? He
 <span class="caption text-muted">Yorktown victory monument</span>
 
 
-<img src="{{ site.baseurl }}/img/IMG_20170521_.080438.jpg">
+<img src="{{ site.baseurl }}/img/IMG_20170521_080438.jpg">
 <span class="caption text-muted">tire dip in the atlantic ocean at yorktown beach</span>
 
 
@@ -52,4 +52,4 @@ As I walked back to the campsite the woman of the reception (and her husband? He
 <span class="caption text-muted">"make your own ice cream"</span>
 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/999557737/embed/aeda5935792f547719caddc93cbe8b09a9081ac6></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/999557737/embed/aeda5935792f547719caddc93cbe8b09a9081ac6'></iframe>
