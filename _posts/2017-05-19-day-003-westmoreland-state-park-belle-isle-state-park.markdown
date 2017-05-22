@@ -35,7 +35,7 @@ At 5 p.m. we drove to the nearby "oak restaurant", with good food and oversized 
 One of the ladies told the waiter that she would take care of my bill, and persisted after a weak attempt by me to decline.
 It was very nice meeting and dining with the 5 ladies from "loners on wheels".
 
-Later that evening, back at the campsite Brian and Peggy invited me for a drink in their RV which ,once you set foot in it, feels like a full-fledged house.
+Later that evening, back at the campsite Stephen and Peggy invited me for a drink in their RV which ,once you set foot in it, feels like a full-fledged house.
 We had a pleasant talk, even briefly going into politics #trump.
 
 
