@@ -48,7 +48,7 @@ As I walked back to the campsite the woman of the reception (and her husband? He
 <img src="{{ site.baseurl }}/img/IMG_20170521_093800.jpg">
 <span class="caption text-muted">James river</span>
 
-<img src="{{ site.baseurl }}/img/IMG_20170521_181649.jpg">
+<img src="{{ site.baseurl }}/img/IMG_20170521_181648.jpg">
 <span class="caption text-muted">"make your own ice cream"</span>
 
 
