@@ -16,11 +16,11 @@ In the afternoon I went to the CVS pharmacy to get eye drops and to the food lio
 
 
 <img src="{{ site.baseurl }}/img/IMG_20170522_084626.jpg">
-<span class="caption text-muted>breakfast waffles!!!</span>
+<span class="caption text-muted">breakfast waffles!!!</span>
 
 
 <img src="{{ site.baseurl }}/img/IMG_20170522_164726.jpg">
-<span class="caption text-muted></span>
+<span class="caption text-muted"></span>
 
 
 
