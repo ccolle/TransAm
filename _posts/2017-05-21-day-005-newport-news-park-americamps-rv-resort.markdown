@@ -2,7 +2,7 @@
 layout:     post
 title:      "day 5: Newport News park - Americamps RV resort (Richmond)"
 subtitle:   ""
-date:       2017-05-20 12:00:00
+date:       2017-05-21 12:00:00
 header-img: "img/IMG_20170521_080438.jpg"
 distance:   160
 ---
