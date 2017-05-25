@@ -23,7 +23,7 @@ Once inside I was greeted by Malia and two tibetan terriers.
 I was offered hot tea and fresh homemade banana bread.
 When I asked where I should pitch my tent Elizabeth told me that there was a bed available for me.
 I was very grateful especially since it was still raining outside.
-Elizabeth showed me her room and bicycle, it looked like a full-blown touring bike.
+Elizabeth showed me the room and her bicycle, it looked like a full-blown touring bike.
 For dinner we had homemade pizza, courtesy of Malia, and egg-plant parmesan, delicious!
 Afterwards we had pleasant talks about, among other things, cycling and future bicycle plans.
 
