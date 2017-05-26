@@ -2,7 +2,7 @@
 layout:     post
 title:      "day 8: Palmyra - Afton"
 subtitle:   ""
-date:       2017-05-23 12:00:00
+date:       2017-05-24 12:00:00
 header-img: "img/IMG_20170524_145319.jpg"
 distance:   94
 ---
