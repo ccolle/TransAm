@@ -18,9 +18,9 @@ I ordered it significantly smoother than the first time.
 The scenic road between Daleville and Christiansburg runs through the lush and green valley of Catawba.
 The hot afternoon ride through the valley was amazing, the views on the surrounding hills were well worth conquering the steep climbs.
 I passed a box containing free water for passing cyclist. A welcome gift on this long and lonely road.
-All of a sudden I saw two cyclist appearing in front of me.
+All of a sudden I saw two cyclists appearing in front of me.
 I wondered if they were the cyclists I was told about yesterday.
-When I caught up to Jake and Jonathan it turnes out they were.
+When I caught up to Jake and Jonathan it turned out they were.
 There are doing the TransAm as well, making some detours to visit family and friends.
 
 Jake (or Jonathan, I don't remember...) rode a bike that he had built himself with an eleven speed internal gear.
