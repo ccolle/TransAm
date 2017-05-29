@@ -16,7 +16,7 @@ In the morning I said goodbye to J&J as they took off to Tennessee, diverging fr
 I did my laundry (for the first time) and let it dry on the washing line while I read on the back porch.
 For lunch and dinner I ate the spaghetti I made yesterday.
 
-Around midday new hikers started arriving, among which "early bird" and ishkebabbel (or something similar).
+Around midday new hikers started arriving, among which "early bird" and "ishkebabbel" (or something similar).
 The afternoon included a nap between 4 and 6 PM.
 
 I'm looking forward to get back on the road tomorrow.
