@@ -7,7 +7,7 @@ header-img: "img/IMG_20170531_073919.jpg"
 distance:  116
 ---
 
-On my way out of the parkI took the time to walk to a viewpont over the canyon.
+On my way out of the park I took the time to walk to a viewpont over the canyon.
 The day started with a descent towards Elkhorn, during which I passed the Dutch couple (Meta & Gerrit) and an American woman (Cathy) who is also cycling the TransAm.
 Cycling through the canyon and the rock formations was a beautiful start of the day.
 Soon I crossed the state border into Kentucky.
@@ -35,8 +35,6 @@ The dutch couple declined and stayed and the campsite to cook their own meal.
 When we returned from the restaurant David made us an enormous icecream.
 No one was able to finish it.
 
-<img src="{{ site.baseurl }}/img/IMG_20170531_123114.jpg">
-<span class="caption text-muted"></span>
 
 <img src="{{ site.baseurl }}/img/IMG_20170531_080111.jpg">
 <span class="caption text-muted"></span>
