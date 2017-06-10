@@ -35,4 +35,4 @@ In golconda I bought bread and a snickers icecream bar and went to the nearby ca
 
 
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1027432164/embed/82dd5be2a442f1c073a460a6d17b34d17b470adc'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1027432164/embed/82dd5b2ea442f1c073a460a6d17b34d17b470adc'></iframe>
