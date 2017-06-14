@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "day 27: Farmington - Ellington"
+title:      "day 27: Ellington - Houston"
 subtitle:   ""
 date:       2017-06-12 12:00:00
 header-img: "img/IMG_20170612_163305.jpg"
