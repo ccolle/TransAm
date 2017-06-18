@@ -40,7 +40,7 @@ I was very glad I was sleeping indoors.
 <img src="{{ site.baseurl }}/img/IMG_20170615_141144.jpg">
 <span class="caption text-muted"></span>
 
-<img src="{{ site.baseurl }}/img/IMG_20170653_174305.jpg">
+<img src="{{ site.baseurl }}/img/IMG_20170615_174305.jpg">
 <span class="caption text-muted">The Immanuel Lutheran Church</span>
 
 <img src="{{ site.baseurl }}/img/IMG_20170616_071323.jpg">
