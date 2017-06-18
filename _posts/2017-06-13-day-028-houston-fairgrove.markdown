@@ -42,7 +42,5 @@ When Kelly came home from a late night meeting we watched a blacksmithing show/c
 <img src="{{ site.baseurl }}/img/IMG_20170613_124030.jpg">
 <span class="caption text-muted"></span>
 
-<img src="{{ site.baseurl }}/img/IMG_20170614_091803.jpg">
-<span class="caption text-muted"></span>
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1035335482/embed/8ba3bf17fcb33571f33cb4a3cf0bd7155947b352'></iframe>
