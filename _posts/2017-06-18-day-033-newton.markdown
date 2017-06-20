@@ -1,0 +1,31 @@
+---
+layout:     post
+title:      "day 33:  Newton"
+subtitle:   "Rest day!"
+date:       2017-06-18 12:00:00
+header-img: "img/IMG_20170618_163841.jpg"
+distance:  0
+---
+
+After a good night's sleep I woke up around 7 AM.
+Jake had already left for an early start.
+My plan if the day was resting and updating my journal, I was running several days behind.
+
+Janet invited me to join her to go to the church but I declined.
+I did join her and Orvin, her husband, for lunch in the pizza hut together with members of their church group.
+They were very friendly and it was nice meeting them.
+
+After the pizza hut I took a nap and was awoken by the bicycle shop calling me to say that I could come pick up my bicycle.
+Before sunset Janet and Orvin gave me a tour of the city, showing me interesting places in Newton.
+It seems like a nice town.
+When we returned we had dinner (more mulberry pie!) and talked about the history of Mennonites and other things.
+
+
+<img src="{{ site.baseurl }}/img/IMG_20170618_162136.jpg">
+<span class="caption text-muted"></span>
+
+<img src="{{ site.baseurl }}/img/IMG_20170618_192935.jpg">
+<span class="caption text-muted"></span>
+
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1043437110/embed/c6e77fd4c00a4ab49e6533feacb16482abfd50d1'></iframe>
