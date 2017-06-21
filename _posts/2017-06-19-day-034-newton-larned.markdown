@@ -28,7 +28,7 @@ I was feeling very tired and was glad I did not decide to continue.
 In the evening another cyclist rolled up.
 Noah from Tenessee, also a westbounder like me.
 He is travelling ultra light and I first misstook him for a TransAm racer.
-Exhausted I went to sleep at 21:00.
+Exhausted I went to sleep at 21:00. 
 
 
 <img src="{{ site.baseurl }}/img/IMG_20170619_124200.jpg">
@@ -40,4 +40,4 @@ Exhausted I went to sleep at 21:00.
 <img src="{{ site.baseurl }}/img/IMG_20170619_142246.jpg">
 <span class="caption text-muted"></span>
 
-<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1044786819/embed/b1edfafc99bec0c19140fad28d107a18cebe7eb4'></iframe>
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1044786819/embed/b1edfaf799bec0c19140fad28d107a18cebe7eb4'></iframe>
