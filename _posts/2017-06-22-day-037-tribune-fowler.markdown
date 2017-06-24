@@ -7,7 +7,7 @@ header-img: "img/IMG_20170622_074104.jpg"
 distance:  223
 ---
 
-Strong winds had blown and been shaking my tent all night so I slept badly.
+Strong winds had blown and been shaking my tent all night so I had slept badly.
 Around 5 AM all three of us were already awake.
 I was on the road around 6 and was instantly hammered in the face by the wind.
 The first three hours I averaged around 12 km/h while pushing hard.
@@ -34,9 +34,6 @@ Noah went outside to make a call and there he started talking to Doug, the owner
 He offered us his caravan, parked behind the diner, to stay in for the night.
 After installing in the caravan we turned in for the night.
 
-
-<img src="{{ site.baseurl }}/img/IMG_20170622_073234.jpg">
-<span class="caption text-muted"></span>
 
 <img src="{{ site.baseurl }}/img/IMG_20170622_113535.jpg">
 <span class="caption text-muted"></span>
