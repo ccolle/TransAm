@@ -7,7 +7,7 @@ header-img: "img/IMG_20170622_074104.jpg"
 distance:  223
 ---
 
-Strong winds had blown and shaking my tent all night so I slept badly.
+Strong winds had blown and been shaking my tent all night so I slept badly.
 Around 5 AM all three of us were already awake.
 I was on the road around 6 and was instantly hammered in the face by the wind.
 The first three hours I averaged around 12 km/h while pushing hard.
