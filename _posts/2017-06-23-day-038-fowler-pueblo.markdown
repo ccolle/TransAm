@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "day 37: Fowler - Pueblo"
+title:      "day 38: Fowler - Pueblo"
 subtitle:   ""
 date:       2017-06-23 12:00:00
 header-img: "img/IMG_20170623_110340.jpg"
