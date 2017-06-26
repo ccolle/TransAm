@@ -31,10 +31,10 @@ We finished with a sundae/brownie combo for dessert.
 <img src="{{ site.baseurl }}/img/IMG_20170624_070812.jpg">
 <span class="caption text-muted"></span>
 
-<img src="{{ site.baseurl }}/img/IMG_20170622_160051.jpg">
+<img src="{{ site.baseurl }}/img/IMG_20170624_160051.jpg">
 <span class="caption text-muted"></span>
 
-<img src="{{ site.baseurl }}/img/IMG_20170622_171105.jpg">
+<img src="{{ site.baseurl }}/img/IMG_20170624_171105.jpg">
 <span class="caption text-muted"></span>
 
 
