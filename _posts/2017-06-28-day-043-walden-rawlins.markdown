@@ -25,7 +25,7 @@ For the last part of the day the route took me through the industrial district o
 I was swerving all over the shoulder whil the sky became brown, filled with dust.
 
 I went to the Walmart, bought groceries and cycled then to the KOA campgrounds of Rawlins.
-The lady at the desk let inspect and pick out the tent site with the most wind cover (they had wooden panels to protect campers from the winds).
+The lady at the desk let me inspect and pick out the tent site with the most wind cover (they had wooden panels to protect campers from the winds).
 
 Later I met Felix from Arizona there who has travelled all over the US (by car).
 He said several trucks had been blown over due to the strong winds.
