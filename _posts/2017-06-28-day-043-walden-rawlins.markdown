@@ -15,7 +15,7 @@ In the morning I passed Jim and Denise from Iowa, cycling a new route called the
 At the state border of Wyoming we took each others picture in front of the sign.
 
 The route followed the wide and open valley north towards Saratoga where I had lunch with a brownie sundae as dessert.
-I hesitated to stay in Saratoga as Jake, Noah, Jime, Denise and the aca group would spend the night there but it was only 1 PM and I decided to push for Rawlins.
+I hesitated to stay in Saratoga as Jake, Noah, Jim, Denise and the aca group would spend the night there but it was only 1 PM and I decided to push for Rawlins.
 
 On the part north towards Walcott I had a strong cross wind with a slight tailwind component so I was speeding along.
 At Walcott the route turned west towards Rawlins, straight into the strong wind.
