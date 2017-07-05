@@ -4,7 +4,7 @@ title:      "day 48: Grant Village (Yellowstone) - West Yellowstone"
 subtitle:   ""
 date:       2017-07-03 12:00:00
 header-img: "img/IMG_20170703_070731[1].jpg"
-distance:  85
+distance:  90
 ---
 
 We had agreed to set the alarm for 5 and try to be on the road by 6.
@@ -54,3 +54,5 @@ Not much later the lightnings were striking closeby and hail fell from the sky.\
 
 
 <iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1066310661/embed/01cd8383aef2b2ea8be5afd1f6cc029c561124ad'></iframe>
+
+<iframe height='405' width='590' frameborder='0' allowtransparency='true' scrolling='no' src='https://www.strava.com/activities/1066433915/embed/cb7de45dce9f394bff9c2c66e74133d940945144'></iframe>
