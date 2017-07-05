@@ -14,7 +14,7 @@ We had kind of a slower start and were on the road by 7.
 The morning offered a sweet gentle downhill with a soft tailwind all the way to Kremmling.
 The ride down brought us through a beatiful valley and a large lake at Heeney.
 
-I stopped for a snack at a gasstation in Kremmling and was Noah crossing the street a few blocks down.
+I stopped for a snack at a gasstation in Kremmling and saw Noah crossing the street a few blocks down.
 He was heading for a coffee shop.
 I rode onwards to Hot Sulfur Springs and passed through the impressive Byers canyon.
 The railroad at the bottom of the canyon follows the twisty Colorado river at the bottom.
