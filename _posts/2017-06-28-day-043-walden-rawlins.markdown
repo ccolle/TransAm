@@ -29,7 +29,7 @@ The lady at the desk let me inspect and pick out the tent site with the most win
 
 Later I met Felix from Arizona there who has travelled all over the US (by car).
 He said several trucks had been blown over due to the strong winds.
-He also asked if I like fruit and when I said yes proceeded me to hand me precut pineapple in ziplock bags, dried figs, a papaya, a mango and a banana to top it off.
+He also asked if I like fruit and when I said yes proceeded to hand me precut pineapple in ziplock bags, dried figs, a papaya, a mango and a banana to top it off.
 He asked about me route the next day. Felix was planning to drive on the same road and promised to honk and wave when he passed me.
 
 
