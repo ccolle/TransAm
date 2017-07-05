@@ -17,7 +17,7 @@ The ride down brought us through a beatiful valley and a large lake at Heeney.
 I stopped for a snack at a gasstation in Kremmling and saw Noah crossing the street a few blocks down.
 He was heading for a coffee shop.
 I rode onwards to Hot Sulfur Springs and passed through the impressive Byers canyon.
-The railroad at the bottom of the canyon follows the twisty Colorado river at the bottom.
+The railroad at the bottom of the canyon follows the twisty Colorado river.
 
 At Hot Sulphur Springs I ate a microwaved bean-cheese burrito and met a couple that had been cycling for fourteen months!
 They started in Sao Paulo Brazil and are making their way up to Canada. "Only" two months left...
