@@ -23,10 +23,10 @@ At Hot Sulphur Springs I ate a microwaved bean-cheese burrito and met a couple t
 They started in Sao Paulo Brazil and are making their way up to Canada. "Only" two months left...
 
 After that it was time for the 90km stretch towards Walden over the Willow Creek pass with no services along the way.
-The way up went very smooth, by times aided by a nice tailwind..
-A aca (adventure cycling association) van passed me on the way up.
+The way up went very smooth, by times aided by a nice tailwind.
+An aca (adventure cycling association) van passed me on the way up.
 
-On the way down from Willow Creek pass the road turned right into a fierce headwind, when descending into a wide and open grassy valley.
+On the way down from Willow Creek pass, descending into a wide and open grassy vallye, the road turned right into a fierce headwind.
 Progress became difficult and cycling into the terrible headwinds was hard.
 A haze started covering the sky and later the whole sky had become white and visibility was somewhat limited.
 The theory is that the strong winds had carried smoke from far-away forest fires.
