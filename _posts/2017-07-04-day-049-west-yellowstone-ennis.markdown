@@ -30,6 +30,10 @@ While I was sitting at the campspot Noah rolled up! He was very hungry and quick
 Not much later another cyclist showed up, Dan from New York.
 There were now 7 cyclists spending the night there.
 When we were getting ready to retreat back into our tents Mike announced he would be at the grocery store by 6 AM the next day.
+Mike is a notorious slow starterand Liz and I madea beton what time he would actually show up at the grocery store.
+We wrote our predictions on a piece of paper.
+Under the loud bangs of fireworks off in the distance we turned in for the night.
+
 
 
 <img src="{{ site.baseurl }}/img/IMG_20170704_082330.jpg">

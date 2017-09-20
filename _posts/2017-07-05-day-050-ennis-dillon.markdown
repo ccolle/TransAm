@@ -11,7 +11,7 @@ Last night Liz and I agreed to be at the grocery store at 5:45 AM to observe Mik
 While Mike was packing, we packed faster and went off to the store.
 Mike arrived at 5:56.
 I showed my piece of paper with my 6:04 prediction on it.
-Liz's had predicted 5:58, winning her the bet and I now owed her an icecream.
+Liz had predicted 5:58, winning her the bet and I now owed her an icecream.
 
 We ate breakfast at the grocery store and Dave rolled up a little later.
 Together we set course for Dillon. I had arranged a warmshower stay there.
