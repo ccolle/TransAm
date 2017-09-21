@@ -1,0 +1,17 @@
+---
+layout:     post
+title:      "Epilogue: Brussels Airport - Ghent"
+subtitle:   ""
+date:       2017-08-28 12:00:00
+header-img: "img/IMG_20170828_203346.jpg"
+distance: 92
+---
+
+When I landed my father greeted me at the airport and helped me unwrapping my bicycle.
+It seemed largely unscathed and after replacing a tube I was good to go and I started cycling the very last kilometers of my 3.5 month journey to Ghent.
+I had promised fries to all those who would bike along the Schelde with me to Ghent.
+When we reached my home town I treated fries for the cycling enthousiasts and after a nice evening meal I cycled home.
+
+<img src="{{ site.baseurl }}/img/IMG_20170828_210200.jpg">
+<span class="caption text-muted"></span>
+
