@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "day 87: Ely - Baker"
+subtitle:   ""
+date:       2017-08-11 12:00:00
+header-img: "img/IMG_20170811_090444.jpg"
+distance: 95
+---
+
+I planned a short day as the next town is only about a 100 km away but the town after that is another 130 km.
+In the morning I steadily climbed straight into a headwind.
+After the first pass I descended into another wide open valley.
+I passed a windmill park there, quite a rare sight in the US.
+After crossing the valley I descended into the great basin valley and later turned off the US-50 whih I have been riding for the past 4 days.
+It was only a couple of km downhill to the small town of Baker from there and I arrived around 11:30.
+
+I waited in front of one of the two restaurants in town untill it opened at 12 and had a veggie-burger.
+After that I rolled to the campgrounds that had a sign in front of it, welcoming cyclists!
+In the afternoon I sheltered from the head in the laundry room and watch youtube videos using the wifi.
+
+When my stomach started growling again I headed for the other restaurant, passing the small convenience store to buy breakfast for the next day.
+The restaurant was a bit fancy.
+I had a delicious pizza with white sauce, potatoes and rosemary.
+When the waitress told me about the chocolate cake with icecream dessert I could not refuse.
+Back at the campgrounds I hung out in the laundry room again untill bedtime.
+
+
+<img src="{{ site.baseurl }}/img/IMG_20170811_093237.jpg">
+<span class="caption text-muted"></span>
+
+<img src="{{ site.baseurl }}/img/IMG_20170811_094143.jpg">
+<span class="caption text-muted"></span>
+
+<img src="{{ site.baseurl }}/img/IMG_20170811_170002.jpg">
+<span class="caption text-muted"></span>
